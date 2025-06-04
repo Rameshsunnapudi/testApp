@@ -11,6 +11,7 @@ public class BubbleSortDemo {
 
 		BubbleSortDemo bubbleSort = new BubbleSortDemo();
 		bubbleSort.bubbleSortArray(array);
+		System.out.println("DONE");
 
 	}
 
